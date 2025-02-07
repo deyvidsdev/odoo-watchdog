@@ -1,4 +1,4 @@
-# **Watchdog Docker Container Restarter**
+# **Watchdog Docker Container Restarter Odoo**
 
 Este script en Python monitoriza los cambios en los archivos `.py` dentro de un directorio específico. Cuando detecta modificaciones, creaciones o eliminaciones de estos archivos, reinicia automáticamente el contenedor Docker asociado, optimizando el proceso y eliminando la necesidad de hacerlo manualmente.
 
