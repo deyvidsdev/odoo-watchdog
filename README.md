@@ -43,7 +43,7 @@ Para ejecutar el script:
 1. Clona este repositorio en tu máquina:
 
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/deyvidsdev/odoo-watchdog.git
    ```
 
 2. Navega al directorio donde guardaste el archivo:
